@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "NAGPURMC.aternos.me",
-    "port": 15149,
+    "ip": "JokerMC.aternos.me",
+    "port": 62329,
     "version": "1.21.1"
   },
   "position": {
